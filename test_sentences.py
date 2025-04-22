@@ -1,7 +1,7 @@
  
 # test_sentences.py
 
-from sentence_transformer import SentenceTransformer
+from src.sentence_transformer import SentenceTransformer
 
 model = SentenceTransformer()
 
