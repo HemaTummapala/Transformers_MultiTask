@@ -93,9 +93,7 @@ python src/training_loop_implementation.py
 - NumPy 1.24+
 - scikit-learn 1.2+
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
